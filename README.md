@@ -2,6 +2,8 @@
 
 Lista de planetas, personagens e filmes.
 
+Consumindo a API: https://swapi.dev/api
+
 
 ![app 01](https://user-images.githubusercontent.com/86091132/161301681-3f6a2b01-420b-4e8b-9c11-cdf28dc8b652.jpg)
 
