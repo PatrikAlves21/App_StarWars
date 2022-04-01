@@ -1,6 +1,6 @@
-# flutter_application_1
+# App_StarWars
 
-A new Flutter project.
+Lista de planetas, personagens e filmes.
 
 ## Getting Started
 
